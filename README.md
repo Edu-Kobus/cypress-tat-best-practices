@@ -2,8 +2,6 @@
 
 👋 Seja bem vinda(o)!
 
-É muito bom tê-la(o) aqui. Tenho certeza que você vai adorar este curso. ❤️
-
 ## O que você vai aprender
 
 Durante o curso de boas práticas em automação de testes com Cypress você vai aprender 10 más práticas na na escrita de testes automatizados e como resolvê-las.
